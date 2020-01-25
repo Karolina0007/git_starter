@@ -1,2 +1,2 @@
 # git_starter
-This is a reposytory to train commands and workflows
+This README file is created for testing purposes.
